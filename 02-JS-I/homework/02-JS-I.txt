@@ -1,0 +1,21 @@
+Variables.
+
+Es la manera en js de guardar un elemento para su posterior utilización.
+Sting.
+
+Básicamente son bloques de texto los cuales se encierran en “” o ‘’
+Funciones (Argumentos, Return).
+Las funciones tomadas por la consola como function, es la manera de indicarle a la máquina que las próximas entradas 
+son objetos invocables que cumplirán una función en el código. Asi mismo los Argumentos son variables que ya planteamos
+ con anterioridad, los cuales se colocan en paréntesis primeramente, ej. 
+var miNombre = ‘Melvin’. Asi la planteamos y luego la usamos de esta forma:
+function RespuestaNombre (Nombre)
+El return sirve para ‘sacar’ algo del function, de otra forma el resultado no se mostrará por estar atado a el function
+
+Las Declaraciones If.
+Son para verificar que un valor sea true, si no lo es se procede con un resultado distinto en función a lo programado.
+
+Valores Booleanos.
+Se basan en los principios del código binario ceros y unos, apagado y encendido, true or false.
+De esta forma el flujo de un programa toma una via distinta luego de verificar el si el input del usuario es cumple 
+las características de un true o de un false
