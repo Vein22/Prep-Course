@@ -1,0 +1,20 @@
+For
+
+Lo utilizamos para hacer bucles, es decir repetir un bloque de codigo "n" de veces.
+
+&&
+
+Este operador significa 'Y', nos dira que el valor de un enunciado es true si dos o mas expresiones
+son true, si una sola es false arrojara como resultado false.
+
+||
+
+Significa 'O' ('OR') Devolvera true con que una sola expresion sea true, para que arroje
+false las dos expresiones deberan serlo.
+
+!
+
+Significa 'No' o 'Not' Este operador simplemente cambiara el valor de un anunciado a su
+opuesto. Ejemplo: En. Js 1 === 1 es igual a true. Pero al usar 'Not' 
+nos arrojaria lo opuesto.
+!1 === 1 es igual a false.
